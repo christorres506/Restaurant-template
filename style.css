@@ -1,0 +1,12 @@
+#hero {
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    min-height:100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("assets/hero-img.jpg");
+    color:white;
+    background-size:cover;
+    background-position:center;
+
+
+}
